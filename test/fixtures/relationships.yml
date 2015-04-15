@@ -1,0 +1,15 @@
+one:
+  follower: teste
+  followed: lana
+
+two:
+  follower: teste
+  followed: mallory
+
+three:
+  follower: lana
+  followed: teste
+
+four:
+  follower: archer
+  followed: teste
